@@ -6,7 +6,7 @@ layout: default
 
 ## Agents
 
-Agents provide the intelligence of the application. They answer questions or follows commands.
+Agents provide the intelligence of the application. They answer questions or complete tasks.
 
 ### Creating a Local Agent
 
