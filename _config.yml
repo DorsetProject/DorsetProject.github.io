@@ -1,0 +1,8 @@
+# Site settings
+title: The Dorset Framework
+description: The Dorset Framework lets you quickly build intelligent virtual assistants.
+url: https://github.com/DorsetProject/dorset-framework
+
+# Build settings
+markdown: kramdown
+exclude: ["README.md"]
